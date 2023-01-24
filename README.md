@@ -1,7 +1,7 @@
 # POO-com-PHP
 Neste repositório apresento uma pequena introdução ao POO utilizando a linguagem de programção PHP.
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ikky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ikky-Csharp" height="120" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ## Conceito e Aplicação
