@@ -1,5 +1,8 @@
 # POO-com-PHP
-Neste repositório apresento uma pequena introdução ao POO utilizando a linguagem de programção PHP
+Neste repositório apresento uma pequena introdução ao POO utilizando a linguagem de programção PHP.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ikky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
 # Conceito e Aplicação
 A programação orientada a objetos é um paradigma de programação, sempre em busca de solucionar problemas através de abstração. Ela tenta aproximar o código escrito da linguagem humana, buscando facilitar a resolução do problema. É composto por: 
 Classes: representação do elemento dentro do código;
